@@ -2,6 +2,9 @@
 
 A simple, Twitter-like CRUD Appklication built with MongoDB, Express.js, Vue.js and Node.js
 
+## DEMO
+https://vuettr.herokuapp.com/
+
 ## Customize
 
 - Replace the `mongoURI` constant in `/server/routes/api/tweets.js` to point to your mongoDB Server
